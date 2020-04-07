@@ -6,12 +6,12 @@
   🚀 Semana OmniStack 10.0
 </h4>
 <p align="center">
-  <img alt="GitHub License" src="https://img.shields.io/github/license/hermino/dev-radar?logo=Badge&style=for-the-badge">
+  <img alt="GitHub" src="https://img.shields.io/github/license/hermino/dev-radar?style=for-the-badge">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/hermino/dev-radar?style=for-the-badge">
   <img alt="GitHub repo issues" src="https://img.shields.io/github/issues-raw/hermino/dev-radar?style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hermino/dev-radar?color=%23FF0000&style=for-
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hermino/dev-radar?color=red&style=for-the-badge">
 </p>
-
+<br>
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
